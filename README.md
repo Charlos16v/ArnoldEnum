@@ -4,4 +4,4 @@ Small Java application in charge of calculating your weight on the different pla
 
 Made it by Carlos Uriel Domínguez Ruiz Díaz and Juan Pastor Ruiz Molina.
 
-![Example of the App](./planets.gif)
+![Example of the App](planets.gif)
